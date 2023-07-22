@@ -1,0 +1,1 @@
+curl -X GET https://api.tiingo.com/tiingo/daily/aapl/prices?token=17291c16a70d8a68e47231a95690257b8c584c86
